@@ -4,6 +4,11 @@ Discljord follows semantic versioning.
 
 ## [Unreleased]
 
+## [1.2.3] - 2021-05-06
+### Fixed
+- Fix bug incorrect ex-info arity call
+  - `connections/connect-bot!`
+
 ## [1.2.2] - 2021-01-20
 ### Fixed
  - Fix wrong uses of body/query-params in
